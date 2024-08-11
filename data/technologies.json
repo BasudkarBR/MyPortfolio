@@ -1,0 +1,114 @@
+{
+    "technologies": [
+        {
+            "name": "HTML5",
+            "icon": "html5",
+            "type": "fab"
+        },
+        {
+            "name": "CSS3",
+            "icon": "css3",
+            "type": "fab"
+        },
+        {
+            "name": "JavaScript",
+            "icon": "js",
+            "type": "fab"
+        },
+        {
+            "name": "Angular",
+            "icon": "angular",
+            "type": "fab"
+        },
+        {
+            "name": "ReactJS",
+            "icon": "react",
+            "type": "fab"
+        },
+        {
+            "name": "Node.js",
+            "icon": "node",
+            "type": "fab"
+        },
+        {
+            "name": "Java",
+            "icon": "java",
+            "type": "fab"
+        },
+        {
+            "name": "Python",
+            "icon": "python",
+            "type": "fab"
+        },
+        {
+            "name": "C",
+            "icon": "code",
+            "type": "fas"
+        },
+        {
+            "name": "C++",
+            "icon": "code",
+            "type": "fas"
+        },
+        {
+            "name": "MySQL",
+            "icon": "database",
+            "type": "fas"
+        },
+        {
+            "name": "MongoDB",
+            "icon": "database",
+            "type": "fas"
+        },
+        {
+            "name": "DynamoDB",
+            "icon": "database",
+            "type": "fas"
+        },
+        {
+            "name": "Hibernate",
+            "icon": "code-branch",
+            "type": "fas"
+        },
+        {
+            "name": "Git",
+            "icon": "git",
+            "type": "fab"
+        },
+        {
+            "name": "GitHub",
+            "icon": "github",
+            "type": "fab"
+        },
+        {
+            "name": "Docker",
+            "icon": "docker",
+            "type": "fab"
+        },
+        {
+            "name": "Linux",
+            "icon": "linux",
+            "type": "fab"
+        },
+        {
+            "name": "CI/CD",
+            "icon": "cogs",
+            "type": "fas"
+        },
+        {
+            "name": "Jira",
+            "icon": "jira",
+            "type": "fab"
+        },
+        {
+            "name": "Figma",
+            "icon": "figma",
+            "type": "fab"
+        },
+        {
+            "name": "Spring Boot",
+            "icon": "leaf",
+            "type": "fas"
+        }
+    ]
+}

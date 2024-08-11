@@ -1,0 +1,16 @@
+{
+    "experience": [
+        {
+            "title": "Software Development Engineer",
+            "company": "Jio Platforms Limited",
+            "date": "Sept 2018 - Aug 2022",
+            "description": "Developed and integrated front-end and back-end components for web applications. Achieved seamless user experiences and robust system functionalities. Worked collaboratively on web-based solutions, ensuring quality and performance."
+        },
+        {
+            "title": "Graduate Teaching Assistant",
+            "company": "Oregon State University",
+            "date": "Mar 2023 - Jun 2024",
+            "description": "Managed coursework and queries for over 100 students in Software Engineering and Parallel Programming courses. Enhanced understanding through weekly sessions on software testing and parallel computing technologies. Provided feedback to foster academic growth and maintained open communication for student support."
+        }
+    ]
+}
