@@ -1,14 +1,11 @@
 {
     "projects": [
         {
-            "name": "Project 1",
-            "image": "images/project2.jpg",
-            "description": "This is a description of Project 1"
-        },
-        {
-            "name": "Project 2",
-            "image": "images/project2.jpg",
-            "description": "This is a description of Project 2"
-        }
+            "name": "Calculator App",
+            "description": "A simple web-based calculator built with HTML, CSS, and JavaScript. Check out the code and live demo on GitHub.",
+            "image": "images/calc.png",
+            "link": "https://github.com/BasudkarBR/Calculator"
+          }
+          
     ]
 }

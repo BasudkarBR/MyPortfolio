@@ -83,6 +83,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     <img src="${project.image}" alt="${project.name}">
                     <h2>${project.name}</h2>
                     <p>${project.description}</p>
+                    <a href="${project.link}" target="_blank">View Project</a>
                 `;
                 projectGrid.appendChild(projectBox);
             });
