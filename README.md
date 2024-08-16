@@ -5,6 +5,7 @@ Welcome to my portfolio project. This portfolio showcases my skills, projects, e
 ## Table of Contents
 
 - [Description](#description)
+- [Deployed Link](#deployed-link)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
@@ -14,6 +15,12 @@ Welcome to my portfolio project. This portfolio showcases my skills, projects, e
 ## Description
 
 This is a portfolio website. The portfolio includes sections such as About, Projects, Experience, Skills, and Contact information. The website is designed to provide a comprehensive view of my professional background and technical skills.
+
+## Deployed Link
+
+You can view the live portfolio at the following link:
+
+**[Bhagyashree Basudkar's Portfolio](https://basudkarbr.github.io/MyPortfolio/)**
 
 ## Installation
 
