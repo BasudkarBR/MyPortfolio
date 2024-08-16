@@ -1,4 +1,15 @@
 document.addEventListener('DOMContentLoaded', function() {
+
+    const sections = document.querySelectorAll('section');
+    sections.forEach(section => {
+        section.classList.add('visible');
+    });
+    
+    const nameHeader = document.getElementById('name-header');
+    nameHeader.classList.add('visible-header');
+    const header = document.querySelector('header');
+    header.style.background = 'rgba(0, 0, 0, 0.9)';
+    
     const roles = [
         "Full Stack Developer",
         "Software Engineer",
