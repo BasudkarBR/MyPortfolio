@@ -11,6 +11,12 @@
             "company": "Oregon State University",
             "date": "Mar 2023 - Jun 2024",
             "description": "Managed coursework and queries for over 100 students in Software Engineering and Parallel Programming courses. Enhanced understanding through weekly sessions on software testing and parallel computing technologies. Provided feedback to foster academic growth and maintained open communication for student support."
+        },
+        {
+            "title": "Full Stack Developer Intern",
+            "company": "Ahom LLC",
+            "date": "Aug 2024 - Present",
+            "description": "Developed and integrated front-end and back-end components for web applications. Designed and developed dynamic web applications using React, Next.js, and Node.js. Implemented and optimized RESTful APIs for seamless client-server communication."
         }
     ]
 }
