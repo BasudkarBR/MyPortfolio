@@ -1,12 +1,12 @@
 {
     "projects": [
-        {
+         {
             "name": "Calculator App",
             "description": "A simple web-based calculator built with HTML, CSS, and JavaScript. Check out the code and live demo on GitHub.",
             "image": "images/calc.png",
             "link": "https://github.com/BasudkarBR/Calculator"
           },
-        {
+         {
             "name": "Tic-Tac-Toe Game",
             "description": "This is a simple Tic-Tac-Toe game built using React, and CSS. Check out the code on GitHub.",
             "image": "images/tictactoe.png",
