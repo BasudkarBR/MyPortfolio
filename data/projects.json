@@ -9,7 +9,7 @@
         {
             "name": "Tic-Tac-Toe Game",
             "description": "This is a simple Tic-Tac-Toe game built using React, and CSS. Check out the code on GitHub.",
-            "image": "images/calc.png",
+            "image": "./image.png",
             "link": "https://github.com/BasudkarBR/Tic-Tac-Toe"
           }
           
